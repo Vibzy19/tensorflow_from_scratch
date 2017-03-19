@@ -8,3 +8,4 @@
 ### [Basics](https://github.com/Vibzy19/tensorflow_from_scratch/blob/master/tensorflow_from_scratch%2B.%2B0.1%2B.%2BBasics.ipynb)
 ### [Addition and Multiplication](https://github.com/Vibzy19/tensorflow_from_scratch/blob/master/tensorflow_from_scratch%2B.%2B1%2B.%2BAddition%2Band%2BMultiplication.ipynb)
 ### [Gaussian Curve](https://github.com/Vibzy19/tensorflow_from_scratch/blob/master/tensorflow_from_scratch%2B.%2B2%2B.%2BGaussian%2BCurve.ipynb)
+### [Convolution using the Gaussian](https://github.com/Vibzy19/tensorflow_from_scratch/blob/master/tensorflow_from_scratch%2B.%2B3%2B.%2BConvolution%2Busing%2Bthe%2BGaussian.ipynb)
